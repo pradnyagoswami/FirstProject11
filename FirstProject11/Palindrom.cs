@@ -10,7 +10,7 @@ namespace FirstProject11
     {
         static void Main(string[] args)
         { 
-        Console.WriteLine($"Enter Number");
+            Console.WriteLine($"Enter Number");
             int num = Convert.ToInt32(Console.ReadLine());
             
             int rev = 0;
